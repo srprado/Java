@@ -7,6 +7,18 @@ public class OperadoresAritmeticos {
 
     public static void main(String[] args) {
         Scanner teclado  = new Scanner(System.in);
+        //Incremento feito depois da soma, por isso valor=10
+        //o decremento (--) tem a msm lógica
+        int numero1 = 5;
+        int valor1 = 5 + numero1--;
+        System.out.println("valor1: "+valor1);
+        System.out.println("numero1: "+numero1);
+        
+        //incremento feito antes da soma, por isso valor=11
+        int numero2 = 5;
+        int valor2 = 5 + --numero2;
+        System.out.println("valor2: "+valor2);
+        System.out.println("numero2: "+numero2);
         
         System.out.print("Digite o primeiro número: ");
         int n1 = teclado.nextInt();
