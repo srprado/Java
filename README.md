@@ -1,6 +1,6 @@
 # JAVA
 ## Java - iniciante
-> Esta pasta reúne uma vários projetos Java desenvolvidos para revisão do básico de Java para meus estudos. Os exemplos contém fundamentos como variáveis, métodos, operadores lógicos e aritméticos e introdução ao uso do Swing para construção de telas.
+> Esta pasta reúne vários projetos Java desenvolvidos para revisão do básico. Os exemplos contém fundamentos de variáveis, métodos, contas, operadores lógicos e aritméticos e introdução ao uso do Swing para construção de telas.
 
 **Tecnologias Utilizadas** 
 21 [Java JDK 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
