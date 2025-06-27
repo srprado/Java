@@ -13,7 +13,7 @@ public class TelaValores extends javax.swing.JFrame {
     /**
      * Creates new form TelaValores
      */
-    public TelaValores() {
+    public TelaValores() {//CONSTRUTOR
         initComponents();
     }
 
