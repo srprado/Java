@@ -1,4 +1,3 @@
-
 package funcaomathemenu;
 
 import java.util.Scanner;
